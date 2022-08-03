@@ -1,5 +1,5 @@
 {
-  "name": "advanced-bootstrap-homework-challenge",
+  "name": "profile-home-work",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
+    "url": "https://github.com/Anilatta/Profile-home-work"
   },
   "keywords": [],
   "author": "Ives van Hoorne",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
+    "url": "https://github.com/Anilatta/Profile-home-work"
   },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "homepage": "https://github.com/Anilatta/Profile-home-work",
   "devDependencies": {
     "serve": "^11.2.0"
   }
